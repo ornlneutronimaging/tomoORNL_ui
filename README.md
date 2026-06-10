@@ -1,5 +1,8 @@
 # tomoORNL_ui
 
+> ⚠️ **Archived (June 2026):** superseded by the group's svmbir → mbirjax migration.
+> Kept read-only for reference.
+
 UI for tomoORNL software. 
 
 ## Installation
