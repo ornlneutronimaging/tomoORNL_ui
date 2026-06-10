@@ -1,3 +1,3 @@
 # pip
-NeuNorm
+NeuNorm<2
 GPUlib
