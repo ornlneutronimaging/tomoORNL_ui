@@ -30,7 +30,7 @@ dependencies:
   - sphinx_rtd_theme
   # pip
   - pip:
-    - NeuNorm
+    - NeuNorm<2
     - olefile
     - pyqtgraph
     - six
